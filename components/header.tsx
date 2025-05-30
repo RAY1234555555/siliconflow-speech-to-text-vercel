@@ -1,4 +1,4 @@
-import { MicIcon } from "lucide-react"
+import { MicIcon } from 'lucide-react'
 import Link from "next/link"
 
 export function Header() {
@@ -19,7 +19,7 @@ export function Header() {
               </li>
               <li>
                 <Link
-                  href="https://github.com/Qianxia666/siliconflow-speech-to-text"
+                  href="https://github.com/RAY1234555555/siliconflow-speech-to-text-vercel"
                   className="text-gray-600 hover:text-blue-600"
                 >
                   GitHub
