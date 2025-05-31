@@ -21,7 +21,7 @@
 点击上方的 "Deploy with Vercel" 按钮，几分钟内即可拥有自己的部署实例。
 
 ### 方法二：本地开发
-\`\`\`bash
+``` bash
 # Fork 并克隆仓库
 git clone https://github.com/RAY1234555555/siliconflow-speech-to-text-vercel.git
 
@@ -33,7 +33,7 @@ npm install
 
 # 启动开发服务器
 npm run dev
-\`\`\`
+```
 
 访问 [http://localhost:3000](http://localhost:3000) 查看应用。
 
